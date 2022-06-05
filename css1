@@ -1,0 +1,29 @@
+.header h1{
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  background-color:aqua;
+  font-size:40px;
+}
+.mylist{
+   background-color:#FFFAF0;
+}
+h2 p{
+  font-size:15px;
+  font-weight:normal;
+  font-family:"Times New Roman"
+  z-index:2;
+}
+table{
+  background-color:aqua;
+  
+}
+th{
+  font-size:30px;
+  text-align:normal;
+}
+td{
+  font-size:20px;
+  font-weight:normal;
+  text-align:center;
+}
