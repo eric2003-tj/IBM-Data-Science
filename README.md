@@ -1,8 +1,10 @@
 # IBM Data Science
 <img src = "https://i0.wp.com/www.freshers360.com/wp-content/uploads/2020/03/IBM-Data-Science-Professional-Certificate.png?fit=378%2C275&ssl=1">
 <h3>Coursera IBM course</h3>
-<p><a href ="https://github.com/eric2003-tj/code_practice/blob/main/Final%20ML.ipynb">My Machine Learning assignment</a></p>
-<p><a href = "https://github.com/eric2003-tj/IBM-Data-Science/blob/main/final.py">My dashboard code</a></p>
+<ol>
+<li><a href ="https://github.com/eric2003-tj/code_practice/blob/main/Final%20ML.ipynb">My Machine Learning assignment</a></li>
+<li><a href = "https://github.com/eric2003-tj/IBM-Data-Science/blob/main/final.py">My dashboard code</a></li>
+</ol>
 <h3>Data Science capstone</h3>
 <ol>
   <li><a href="https://github.com/eric2003-tj/code_practice/edit/main/README.md">Lab 1: Collecting the data</a></li>
