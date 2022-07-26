@@ -1,4 +1,5 @@
 # code_practice
+<h3>Coursera IBM machine learning course</h3>
 <p><a href ="https://github.com/eric2003-tj/code_practice/blob/main/Final%20ML.ipynb">My Machine Learning assignment</a></p>
 <h3>Data Science capstone</h3>
 <ol>
