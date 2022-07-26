@@ -1,4 +1,5 @@
-# code_practice
+# IBM Data Science
+<img href = "https://d2lk14jtvqry1q.cloudfront.net/media/medium_1200px_Coursera_Logo_600x600_svg_dcd1d69bb6_b5b98aa55b_e308492ae9.png">
 <h3>Coursera IBM course</h3>
 <p><a href ="https://github.com/eric2003-tj/code_practice/blob/main/Final%20ML.ipynb">My Machine Learning assignment</a></p>
 <p><a href = "https://github.com/eric2003-tj/IBM-Data-Science/blob/main/final.py">My dashboard code</a></p>
