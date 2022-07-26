@@ -1,5 +1,5 @@
 # IBM Data Science
-<img src = "https://d2lk14jtvqry1q.cloudfront.net/media/medium_1200px_Coursera_Logo_600x600_svg_dcd1d69bb6_b5b98aa55b_e308492ae9.png">
+<img src = "https://i0.wp.com/www.freshers360.com/wp-content/uploads/2020/03/IBM-Data-Science-Professional-Certificate.png?fit=378%2C275&ssl=1">
 <h3>Coursera IBM course</h3>
 <p><a href ="https://github.com/eric2003-tj/code_practice/blob/main/Final%20ML.ipynb">My Machine Learning assignment</a></p>
 <p><a href = "https://github.com/eric2003-tj/IBM-Data-Science/blob/main/final.py">My dashboard code</a></p>
